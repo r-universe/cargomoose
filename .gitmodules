@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ggraptR"]
-	path = ggraptR
-	url = https://github.com/cargomoose/ggraptr
-	shallow = true
-	registered = true
